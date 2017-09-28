@@ -1,0 +1,11 @@
+What is their name?
+	Rumen.
+
+Where are they from?
+	Sofia.
+
+What hobbies/pastimes do they enjoy?
+	Photography.
+
+Why did they pick SoftUni?
+	Because it's fun!
